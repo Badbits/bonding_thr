@@ -1,3 +1,9 @@
+/*
+ * TODO: Rebase code to 3.10
+ *
+ *
+ */
+
 #include <linux/skbuff.h>
 #include <linux/netdevice.h>
 #include <linux/etherdevice.h>
